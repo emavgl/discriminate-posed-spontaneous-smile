@@ -1,0 +1,2 @@
+paste -d , lip_full.csv eye_base.csv | tr -d '\r' > full.csv
+
